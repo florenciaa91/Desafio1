@@ -2,7 +2,7 @@
 # Practica integradora: Git + GitHub - Extra
 
 ***
-*git status
-*git add
-*git commit
+*git status:bamboo:
+*git add:confetti_ball:
+*git commit:fireworks:
 ***
